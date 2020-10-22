@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on various WLED enhancements
+- 🔭 I’m currently working on an iOS App for Smart BMS
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: [Twitter](https://twitter.com/WillNichtLernen)
 
