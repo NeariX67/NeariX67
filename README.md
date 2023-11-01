@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working enchaning my iOS App "SmartBMS Utility", also now available on Android, MacOS and Windows!
+- 🔭 I’m currently working enhancing my iOS App "SmartBMS Utility", also now available on Android, MacOS and Windows!
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: [Mail](mailto:justin.kuehner@gmail.com)
 
